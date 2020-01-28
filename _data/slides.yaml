@@ -35,7 +35,7 @@
   tooltip_margin_left: 1080px
   tooltip_direction: right
 - caption_title: Data Published to a Website
-  caption_text: You publish the data to a web or mobile applicaton directly from the data source, making it available on the web as HTML.
+  caption_text: You publish the data to a web or mobile application directly from the data source, making it available on the web as HTML.
   margin_margin_top: 500px
   caption_width: 40
   margin_right: 1
@@ -47,7 +47,7 @@
   tooltip_margin_left: 1080px
   tooltip_direction: right
 - caption_title: Portable Widget
-  caption_text: Then you are in need a widget that can be embedded on any other website, making the data available in new ways.
+  caption_text: Then you are in need of a widget that can be embedded on any other website, making the data available in new ways.
   margin_margin_top: 500px
   caption_width: 40
   margin_right: 1
@@ -82,7 +82,7 @@
   tooltip_margin_top: 107px
   tooltip_margin_left: 1080px
   tooltip_direction: right
-- caption_title: Existing API Developent Lifecycle
+- caption_title: Existing API Development Lifecycle
   caption_text: A current API lifecycle can take an average of 3-12 months to deliver each version of an API, using a code first approach.
   margin_margin_top: 500px
   caption_width: 40
@@ -131,7 +131,7 @@
   tooltip_margin_left: 1080px
   tooltip_direction: right
 - caption_title: Add JSON Example
-  caption_text: Add an example to our new API request we have defined as a simple resource path, providing a an example of it's response.
+  caption_text: Add an example to our new API request we have defined as a simple resource path, providing an example of it's response.
   margin_margin_top: 500px
   caption_width: 40
   margin_right: 1
@@ -155,7 +155,7 @@
   tooltip_margin_left: 1080px
   tooltip_direction: right
 - caption_title: Add Mock API
-  caption_text: Now that we have a path, and a example of what our API response should look like, we want to add a mock for our API.
+  caption_text: Now that we have a path, and an example of what our API response should look like, we want to add a mock for our API.
   margin_margin_top: 500px
   caption_width: 40
   margin_right: 0
@@ -215,7 +215,7 @@
   tooltip_margin_left: 1080px
   tooltip_direction: right
 - caption_title: View API Documentation
-  caption_text: Now we have API docs for our API, allowing stakeholders to see how it work, then download and run on their own.
+  caption_text: Now we have API docs for our API, allowing stakeholders to see how it works, then download and run on their own.
   margin_margin_top: 500px
   caption_width: 40
   margin_right: 1
@@ -239,7 +239,7 @@
   tooltip_margin_left: 1080px
   tooltip_direction: right
 - caption_title: Iterate Until Complete
-  caption_text: Repeating each of the steps, sharing with stakeholders and gathering feedback along the way until it is ready use.
+  caption_text: Repeating each of the steps, sharing with stakeholders and gathering feedback along the way until it is ready to use.
   margin_margin_top: 500px
   caption_width: 40
   margin_right: 1
@@ -262,8 +262,8 @@
   tooltip_margin_top: 107px
   tooltip_margin_left: 1080px
   tooltip_direction: right
-- caption_title: Save Reponse as Example
-  caption_text: You can then make a call to an existing API, abd save the response as an example for editing, mocking, and documenting.
+- caption_title: Save Response as Example
+  caption_text: You can then make a call to an existing API, and save the response as an example for editing, mocking, and documenting.
   margin_margin_top: 500px
   caption_width: 40
   margin_right: 1
@@ -311,7 +311,7 @@
   tooltip_margin_left: 1080px
   tooltip_direction: right
 - caption_title: Publish Documentation
-  caption_text: Finally we can also publish documentation for our API making the new evolved API more tangible for all stakeholders.
+  caption_text: Finally we can also publish documentation for our API making the newly evolved API more tangible for all stakeholders.
   margin_margin_top: 500px
   caption_width: 40
   margin_right: 1
@@ -383,7 +383,7 @@
   tooltip_margin_left: 1080px
   tooltip_direction: right
 - caption_title: Partners & Stakeholders
-  caption_text: API first brings together all of stakeholders and allows everyone to participate and provide feedback each API being designed.
+  caption_text: API first brings together all of stakeholders and allows everyone to participate and provide feedback for each API being designed.
   margin_margin_top: 500px
   caption_width: 40
   margin_right: 1
