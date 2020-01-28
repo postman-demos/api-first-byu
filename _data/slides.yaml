@@ -124,23 +124,23 @@
   caption_width: 40
   margin_right: 1
   background_image: images/2-public-water-systems-path.png
-  tooltip_show: 0
-  tooltip_text: Save
+  tooltip_show: 1
+  tooltip_text: Path
   tooltip_width: 105px
-  tooltip_margin_top: 107px
-  tooltip_margin_left: 1080px
-  tooltip_direction: right
+  tooltip_margin_top: 95px
+  tooltip_margin_left: 625px
+  tooltip_direction: left
 - caption_title: Add JSON Example
   caption_text: Add an example to our new API request we have defined as a simple resource path, providing an example of it's response.
   margin_margin_top: 500px
   caption_width: 40
   margin_right: 1
   background_image: images/3-public-water-systems-add-example.png
-  tooltip_show: 0
-  tooltip_text: Save
+  tooltip_show: 1
+  tooltip_text: Add
   tooltip_width: 105px
-  tooltip_margin_top: 107px
-  tooltip_margin_left: 1080px
+  tooltip_margin_top: 200px
+  tooltip_margin_left: 1020px
   tooltip_direction: right
 - caption_title: Save JSON Example
   caption_text: Convert our CSV public water system data, convert it into JSON, and take 100 rows and add it as an example for this API.
@@ -148,11 +148,11 @@
   caption_width: 40
   margin_right: 0
   background_image: images/4-public-water-systems-add-example.png
-  tooltip_show: 0
+  tooltip_show: 1
   tooltip_text: Save
   tooltip_width: 105px
-  tooltip_margin_top: 107px
-  tooltip_margin_left: 1080px
+  tooltip_margin_top: 55px
+  tooltip_margin_left: 1100px
   tooltip_direction: right
 - caption_title: Add Mock API
   caption_text: Now that we have a path, and an example of what our API response should look like, we want to add a mock for our API.
@@ -160,12 +160,12 @@
   caption_width: 40
   margin_right: 0
   background_image: images/5-public-water-systems-mock-api.png
-  tooltip_show: 0
-  tooltip_text: Save
+  tooltip_show: 1
+  tooltip_text: Mock
   tooltip_width: 105px
-  tooltip_margin_top: 107px
-  tooltip_margin_left: 1080px
-  tooltip_direction: right
+  tooltip_margin_top: 460px
+  tooltip_margin_left: 380px
+  tooltip_direction: left
 - caption_title: Configure Mock API
   caption_text: Next we will need to give our mock API a name, and then  configure it mock the API we are working to define and design.
   margin_margin_top: 500px
@@ -184,12 +184,12 @@
   caption_width: 40
   margin_right: 1
   background_image: images/7-public-water-systems-mock-api.png
-  tooltip_show: 0
-  tooltip_text: Save
-  tooltip_width: 105px
-  tooltip_margin_top: 107px
-  tooltip_margin_left: 1080px
-  tooltip_direction: right
+  tooltip_show: 1
+  tooltip_text: Mock URL
+  tooltip_width: 200px
+  tooltip_margin_top: 307px
+  tooltip_margin_left: 815px
+  tooltip_direction: left
 - caption_title: Mock API Response
   caption_text: Now we can combine the mock URL with our API path, click send, and actually see the static response for our new API.
   margin_margin_top: 500px
@@ -208,12 +208,12 @@
   caption_width: 40
   margin_right: 0
   background_image: images/9-public-water-systems-publish-docs.png
-  tooltip_show: 0
-  tooltip_text: Save
+  tooltip_show: 1
+  tooltip_text: Add
   tooltip_width: 105px
-  tooltip_margin_top: 107px
-  tooltip_margin_left: 1080px
-  tooltip_direction: right
+  tooltip_margin_top: 490px
+  tooltip_margin_left: 380px
+  tooltip_direction: left
 - caption_title: View API Documentation
   caption_text: Now we have API docs for our API, allowing stakeholders to see how it works, then download and run on their own.
   margin_margin_top: 500px
@@ -268,11 +268,11 @@
   caption_width: 40
   margin_right: 1
   background_image: images/2-github-issue-api-first-save-example.png
-  tooltip_show: 0
+  tooltip_show: 1
   tooltip_text: Save
   tooltip_width: 105px
-  tooltip_margin_top: 107px
-  tooltip_margin_left: 1080px
+  tooltip_margin_top: 375px
+  tooltip_margin_left: 1060px
   tooltip_direction: right
 - caption_title: Edit Example JSON
   caption_text: Now you can work to craft exactly the response you'd like to see for the API, providing only the values you will need.
@@ -292,12 +292,12 @@
   caption_width: 40
   margin_right: 0
   background_image: images/4-github-issue-api-first-mock-api.png
-  tooltip_show: 0
-  tooltip_text: Save
+  tooltip_show: 1
+  tooltip_text: Mock
   tooltip_width: 105px
-  tooltip_margin_top: 107px
-  tooltip_margin_left: 1080px
-  tooltip_direction: right
+  tooltip_margin_top: 460px
+  tooltip_margin_left: 380px
+  tooltip_direction: left
 - caption_title: See Mock API Response
   caption_text: Once we replace the live URL with our mock API URL we can make a request and see the response we want from our API.
   margin_margin_top: 500px
