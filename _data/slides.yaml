@@ -85,7 +85,7 @@
 - caption_title: Existing API Development Lifecycle
   caption_text: A current API lifecycle can take an average of 3-12 months to deliver each version of an API, using a code first approach.
   margin_margin_top: 500px
-  caption_width: 40
+  caption_width: 50
   margin_right: 1
   background_image: images/teach-space-api-sdlc-existing.png
   tooltip_show: 0
