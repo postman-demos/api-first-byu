@@ -1,18 +1,6 @@
-# Postman: Different Types of Collections
-This is a look at using Postman collections for governing the design of APIs.
+# API First @ BYU
+This is a look at API first development for a talk at BYU.
 
-The demo can be viewed at: https://postman-demos.github.io/different-types-of-collections/
+The demo can be viewed at: https://postman-demos.github.io/api-first-byu/
 
-YAML Slides - https://github.com/postman-demos/different-types-of-collections/blob/master/_data/slides.yaml
-
-## Outline
-- API Requests
-- API Response
-- Save Request
-- Save As Collections
-- Reference Collections
-- Walk-Through Collections
-- Workflow Collections
-- Analyst Collections
-- Infrastructure Collections
-- Governance Collections
+YAML Slides - https://github.com/postman-demos/api-first-byu/blob/master/_data/slides.yaml
