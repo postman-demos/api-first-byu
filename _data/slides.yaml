@@ -196,11 +196,11 @@
   caption_width: 40
   margin_right: 0
   background_image: images/8-public-water-systems-mock-api-response.png
-  tooltip_show: 0
-  tooltip_text: Save
-  tooltip_width: 105px
-  tooltip_margin_top: 107px
-  tooltip_margin_left: 1080px
+  tooltip_show: 1
+  tooltip_text: Mock API URL
+  tooltip_width: 250px
+  tooltip_margin_top: 100px
+  tooltip_margin_left: 290px
   tooltip_direction: right
 - caption_title: Add API Documentation
   caption_text: With a mocked version of our API we can make it a little more tangible by publishing documentation for our API.
@@ -304,11 +304,11 @@
   caption_width: 40
   margin_right: 0
   background_image: images/5-github-issue-api-first-mock-api.png
-  tooltip_show: 0
-  tooltip_text: Save
-  tooltip_width: 105px
-  tooltip_margin_top: 107px
-  tooltip_margin_left: 1080px
+  tooltip_show: 1
+  tooltip_text: Mock API URL
+  tooltip_width: 250px
+  tooltip_margin_top: 60px
+  tooltip_margin_left: 280px
   tooltip_direction: right
 - caption_title: Publish Documentation
   caption_text: Finally we can also publish documentation for our API making the newly evolved API more tangible for all stakeholders.
